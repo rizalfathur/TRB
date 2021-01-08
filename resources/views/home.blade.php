@@ -39,11 +39,11 @@
         <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
       </li>-->
     </ul>
-    <form class="form-inline my-2 my-lg-0">
+    <!-- <form class="form-inline my-2 my-lg-0">
       <input class="form-control mr-sm-2" type="search" placeholder="Cari tempat wisata" aria-label="Search">
       <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Cari</button>
     </form>
-  </div>
+  </div> -->
 </nav>
 
     <div class="container">
@@ -69,6 +69,7 @@
     <div class="row">    
         <div class="col-md-4 ">
             <div class="card">
+            <span class="card-title">The Lodge Lembang</span>
                 <div class="card-image">
                     <div class="embed-responsive embed-responsive-16by9">
                     <iframe width="200" height="400" src="https://www.youtube.com/embed/c8ujKjGsy2o" frameborder="0" allowfullscreen></iframe>
@@ -76,14 +77,15 @@
             </div><!-- card image -->
             <br>    
             <div class="card-content">
-                <span class="card-title">The Lodge Lembang</span>
+                
                 <p class="card-text"> The Lodge merupakan salah satu tempat wisata yang ada di kecamatan Lembang Kabupaten Bandung Barat.</p>                    
-                <br><a href="#" class="btn btn-primary btn-sm float-left">Lebih Lanjut</a>       
+                <br><a href="thelodge" class="btn btn-primary btn-sm float-left">Lebih Lanjut</a>       
             </div><!-- card content -->       
         </div>
     </div>
         <div class="col-md-4 ">
             <div class="card">
+            <span class="card-title">Taman Lalu Lintas</span>
                 <div class="card-image">
                     <div class="embed-responsive embed-responsive-16by9">
                     <iframe width="200" height="400" src="https://www.youtube.com/embed/_DJD1bY3xLI" frameborder="0" allowfullscreen></iframe>
@@ -92,12 +94,13 @@
                 
             <div class="card-content">
                 <br>
-                <span class="card-title">Taman Lalu Lintas</span><br> <p class="card-text">Taman Lalu Lintas adalah taman rekreasi edukasi tentang apa saja yang harus diperhatikan pada lalu lintas</p> <a href="#" class="btn btn-primary btn-sm float-left">Lebih Lanjut</a>                  
+                 <p class="card-text">Taman Lalu Lintas adalah taman rekreasi edukasi tentang apa saja yang harus diperhatikan pada lalu lintas</p> <a href="detail" class="btn btn-primary btn-sm float-left">Lebih Lanjut</a>                  
             </div><!-- card content -->        
         </div> 
     </div>
         <div class="col-md-4 ">
             <div class="card">
+            <span class="card-title">Trans Studio Bandung</span>
                 <div class="card-image">
                     <div class="embed-responsive embed-responsive-16by9">
                     <iframe width="200" height="400" src="https://www.youtube.com/embed/eO3PF2Ar7cc" frameborder="0" allowfullscreen></iframe>
@@ -105,11 +108,61 @@
             </div><!-- card image -->
             <br>
             <div class="card-content">
-                <span class="card-title">Trans Studio Bandung</span>
+                
                 <p class="card-text">Trans Studio Bandung merupakan wahana permainan yang ada di kota Bandung,
                     wahana ini merupakan salah satu wahana indoor terbesar di kota Bandung
-                </p> <a href="#" class="btn btn-primary btn-sm float-left">Lebih Lanjut</a>                    
+                </p> <a href="tsb" class="btn btn-primary btn-sm float-left">Lebih Lanjut</a>                    
             </div><!-- card content -->        
+      </div>
+    </div>
+    <div class="row">    
+        <div class="col-md-4 ">
+            <div class="card">
+            <span class="card-title">The Lodge Lembang</span>
+                <div class="card-image">
+                    <div class="embed-responsive embed-responsive-16by9">
+                    <iframe width="200" height="400" src="https://www.youtube.com/embed/c8ujKjGsy2o" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div><!-- card image -->
+            <br>    
+            <div class="card-content">
+                
+                <p class="card-text"> The Lodge merupakan salah satu tempat wisata yang ada di kecamatan Lembang Kabupaten Bandung Barat.</p>                    
+                <br><a href="thelodge" class="btn btn-primary btn-sm float-left">Lebih Lanjut</a>       
+            </div><!-- card content -->       
+        </div>
+    </div>
+        <div class="col-md-4 ">
+            <div class="card">
+            <span class="card-title">Taman Lalu Lintas</span>
+                <div class="card-image">
+                    <div class="embed-responsive embed-responsive-16by9">
+                    <iframe width="200" height="400" src="https://www.youtube.com/embed/_DJD1bY3xLI" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div><!-- card image -->
+                
+            <div class="card-content">
+                <br>
+                 <p class="card-text">Taman Lalu Lintas adalah taman rekreasi edukasi tentang apa saja yang harus diperhatikan pada lalu lintas</p> <a href="detail" class="btn btn-primary btn-sm float-left">Lebih Lanjut</a>                  
+            </div><!-- card content -->        
+        </div> 
+    </div>
+        <div class="col-md-4 ">
+            <div class="card">
+            <span class="card-title">Trans Studio Bandung</span>
+                <div class="card-image">
+                    <div class="embed-responsive embed-responsive-16by9">
+                    <iframe width="200" height="400" src="https://www.youtube.com/embed/eO3PF2Ar7cc" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div><!-- card image -->
+            <br>
+            <div class="card-content">
+                
+                <p class="card-text">Trans Studio Bandung merupakan wahana permainan yang ada di kota Bandung,
+                    wahana ini merupakan salah satu wahana indoor terbesar di kota Bandung
+                </p> <a href="tsb" class="btn btn-primary btn-sm float-left">Lebih Lanjut</a>                    
+            </div><!-- card content -->        
+      </div>
     </div>
 
     <div class="footer">

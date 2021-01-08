@@ -15,16 +15,17 @@ nav{
 .intro-img{
     width: 500px;
     height: 300px;
-    margin-left: 40px;
+    align-content: center;
 }
+
+
 
 .card-title{
+    text-align: left;
+    padding-top: 5px;
     padding-left: 15px;
-}
-
-.card-title p{
-    padding-top: 15px;
-    padding-left: 15px;
+    padding-bottom: 0px;
+    
 }
 
 .card-text{
@@ -35,7 +36,7 @@ nav{
 }
 
 .card{
-    margin-bottom: 50px;
+    margin: 15px 10px 50px 15px;
 }
 
 .footer{
@@ -53,6 +54,13 @@ nav{
 .btn{
     margin-top: 5px;
     margin-left: 15px;
-    margin-bottom: 5px;
+    margin-bottom: 15px;
 }
+
+.tll{
+    padding-top: 15px;
+    margin-bottom: 100px;
+}
+
+
 
